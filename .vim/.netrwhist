@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/home/keith/.config/autostart'
+let g:netrw_dirhist_2='/etc/systemd/system'
+let g:netrw_dirhist_3='/home/keith/.emacs.d'
+let g:netrw_dirhist_4='/home/keith/.emacs.d/elpa'
+let g:netrw_dirhist_5='/usr/share/feeluown-git'
+let g:netrw_dirhist_6='/home/keith/.vim'
+let g:netrw_dirhist_7='/usr/share/vim/vim74/syntax'
